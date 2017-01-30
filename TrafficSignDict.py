@@ -1,0 +1,50 @@
+'''
+Created on Jan 30, 2017
+
+@author: Jendrik
+'''
+
+traficSignDict = {
+    0: "Speed Limit 20",
+    1: "Speed Limit 30",
+    2: "Speed Limit 50",
+    3: "Speed Limit 40",
+    4: "Speed Limit 70",
+    5: "Speed Limit 80",
+    6: "Lift Speed Limit",
+    7: "Speed Limit 100",
+    8: "Speed Limit 120",
+    9: "Overtaking Forbidden",
+    10: "Overtaking Forbidden Lorries",
+    11: "Right Of Way Now",
+    12: "Right Of Way Street",
+    13: "Give Way",
+    14: "Stop",
+    15: "Drive-Through Forbidden",
+    16: "Lorries Forbidden",
+    17: "Entering Forbidden",
+    18: "Attention",
+    19: "Sharp Curve Left",
+    20: "Sharp Curve Right",
+    21: "Multiple Sharpe Curves",
+    22: "Bumps",
+    23: "Slippy Road",
+    24: "Road Narrows",
+    25: "Roadworks",
+    26: "Traffic Light",
+    27: "Pedestrians",
+    28: "Children Playing",
+    29: "Cyclists",
+    30: "Frost",
+    31: "Game Pass",
+    32: "All Restrictions Lifted",
+    33: "Go Right",
+    34: "Go Left",
+    35: "Go Straight",
+    36: "Go Straight or Right",
+    37: "Go Straight or Left",
+    38: "Go Right Around Obstacle",
+    39: "Go Left Around Obstacle",
+    40: "Roundabout",
+    41: "Overtaking allowed again"
+    }
