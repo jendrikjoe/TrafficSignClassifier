@@ -4,14 +4,14 @@ Created on Jan 30, 2017
 @author: Jendrik
 '''
 
-traficSignDict = {
+trafficSignDict = {
     0: "Speed Limit 20",
     1: "Speed Limit 30",
     2: "Speed Limit 50",
     3: "Speed Limit 40",
     4: "Speed Limit 70",
     5: "Speed Limit 80",
-    6: "Lift Speed Limit",
+    6: "Lift Speed Limit 80",
     7: "Speed Limit 100",
     8: "Speed Limit 120",
     9: "Overtaking Forbidden",
