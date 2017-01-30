@@ -46,5 +46,6 @@ trafficSignDict = {
     38: "Go Right Around Obstacle",
     39: "Go Left Around Obstacle",
     40: "Roundabout",
-    41: "Overtaking allowed again"
+    41: "Overtaking allowed again",
+    42: "Lorries are allowed to overtake again"
     }
